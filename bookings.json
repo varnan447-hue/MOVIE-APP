@@ -1,0 +1,21 @@
+[
+    {
+        "movie": "The Devil Wears Prada 2",
+        "name": "b",
+        "seats": "1",
+        "time": "6:00 PM",
+        "allocatedSeats": [
+            "A5"
+        ]
+    },
+    {
+        "movie": "The Batman",
+        "name": "Varnan",
+        "seats": "2",
+        "time": "10:00 AM",
+        "allocatedSeats": [
+            "A6",
+            "A7"
+        ]
+    }
+]
