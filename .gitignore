@@ -1,0 +1,8 @@
+node_modules/
+build/
+.cache/
+
+backend/__pycache__/
+*.py[cod]
+
+react-movie-app/

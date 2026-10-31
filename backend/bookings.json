@@ -1,0 +1,12 @@
+[
+    {
+        "movie": "Backrooms",
+        "name": "h",
+        "seats": "2",
+        "time": "10:00 AM",
+        "allocatedSeats": [
+            "A10",
+            "B1"
+        ]
+    }
+]
